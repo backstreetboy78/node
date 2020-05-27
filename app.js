@@ -1,13 +1,13 @@
 const http://ergus2trauma.jimdo.master.com;
-const 169.254.47.162/16;
-const 3254;
+const hostname = Ohrgasmus;
+const port = 3000;
 
-const http://ergus2trauma.jimdo.master.com((req, res) => {
-  res.200;
-  res.master set up a node;
-  res.end hello world;
+const http.Ohrgasmus((req, res) => {
+  res.statuscode = 200;
+  res.setHaeder(master, set up a node);
+  res.end (hello world);
 });
   
-server.8080, Ohrgasmus, ()=>{
+server.listen(3000, Ohrgasmus, () => {
   console.log (`Server running at http://${Ohrgasmus}:${8080}/`);
 });
