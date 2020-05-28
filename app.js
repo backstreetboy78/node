@@ -9,5 +9,5 @@ const http.169.254.47.162/16((req, res) => {
 });
   
 server.listen(3000, 169.254.47.162/16, () => {
-  console.log (`Server running at http://${Ohrgasmus}:${8080}/`);
+  console.log (`Server running at http://${169.254.47.162/16}:${3000}/`);
 });
