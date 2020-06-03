@@ -1,4 +1,4 @@
-const http://169.254.47.2;
+const http://192.168.1.33;
 const hostname = 169.254.47.2;
 const port = 3000;
 
