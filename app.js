@@ -1,4 +1,4 @@
-const http://ergus2trauma.jimdo.master.com;
+const http://169.254.47.2;
 const hostname = 169.254.47.2;
 const port = 3000;
 
